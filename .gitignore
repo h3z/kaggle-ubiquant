@@ -4,7 +4,8 @@ outputs
 __pycache__/
 *.py[cod]
 *$py.class
-
+model_0
+*.png
 # C extensions
 *.so
 
